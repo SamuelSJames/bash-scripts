@@ -1,5 +1,9 @@
 #!/bin/bash
+
 clear
+
+echo " This is for Ubuntu 20.04 LTS focal.."
+sleep 3
 export LC_ALL=C
 export DEBIAN_FRONTEND=noninteractive
 
